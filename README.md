@@ -10,7 +10,7 @@
 # 2.Description #
     
 -This project was put to life with 'tkinter' library;  
--'tkinter' library is easy to use, has an incredible power for UI/UX design;  
+-'tkinter' library is easy to use and has an incredible power for UI/UX design.    
 ***
 
 # 3.Tips #
