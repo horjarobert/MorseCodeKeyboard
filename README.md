@@ -1,4 +1,4 @@
---- MorseCode Keyboard ---
+--- Morse Code Keyboard ---
 
 ![App demo](https://github.com/horjarobert/MorseCodeKeyboard/blob/master/morseCodeKeyboard.gif)
 
